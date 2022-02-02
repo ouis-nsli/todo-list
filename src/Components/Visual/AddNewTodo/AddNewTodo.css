@@ -16,7 +16,6 @@
   height: 100vh;
   top: 0;
   left: 0;
-  /* background: rgba(255, 255, 255, 0.41); */
   backdrop-filter: blur(4px);
 }
 .add-todo-form-con {
@@ -31,7 +30,6 @@
 }
 
 .MuiBox-root.css-xn6ruc {
-  /* background-color: red; */
   width: 100%;
 }
 .css-xn6ruc > :not(style) {

@@ -9,8 +9,6 @@ import DeleteIcon from '@mui/icons-material/Delete';
 export default function PositionedMenu({
   handleDelete,
   id,
-  // toggleAddTodoComp,
-  // IsAddNewTodoOpen,
   IsEditTodoOpen,
   toggleEditTodoComp,
 }) {

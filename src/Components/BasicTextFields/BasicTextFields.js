@@ -28,8 +28,3 @@ export default function BasicTextFields({ data, setData, value }) {
     </Box>
   );
 }
-
-// BasicTextFields.defaultProps = {
-//   data: '',
-//   value: '',
-// };

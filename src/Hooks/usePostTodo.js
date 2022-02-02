@@ -2,7 +2,6 @@ import axios from 'axios';
 import { useMutation, useQueryClient } from 'react-query';
 import { APIkey } from '../Helper/APIkey';
 import { v4 } from 'uuid';
-// import GlobalContext from '../Context/Global/GlobalContext';
 
 export default function usePostTodo() {
   const queryClient = useQueryClient();
