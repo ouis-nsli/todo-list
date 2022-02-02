@@ -23,6 +23,11 @@
   right: 0;
   border-radius: 50%;
 }
+
+.todo-item a {
+  margin-right: 25px;
+}
+
 .css-1e6y48t-MuiButtonBase-root-MuiButton-root {
   color: #c4c4c4 !important;
 }
