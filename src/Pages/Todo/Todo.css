@@ -1,0 +1,73 @@
+.todo-single-page-title {
+  font-size: 35px;
+  letter-spacing: 0.08em;
+
+  ont-weight: bold;
+  /* line-height: 65px; */
+  /* text-transform: uppercase; */
+  /* text-align: center; */
+  /* padding: 120px 0 80px 0; */
+  padding-bottom: 100px;
+}
+
+.todo-card-info-wrp-con {
+  /* background-color: blue; */
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+.todo-card-info-wraper {
+  width: 60vw;
+  height: auto;
+  background: #f8f9fa;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 16px;
+  padding: 42px 30px;
+  margin-top: 24px;
+}
+
+.todo-card-info-title-head {
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 25px;
+  /* display: flex;
+align-items: center; */
+  letter-spacing: 0.08em;
+}
+
+.todo-card-info-title-text {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 160%;
+  letter-spacing: 0.04em;
+  margin-top: 15px;
+}
+
+.todo-car-info-status {
+  margin-top: 55px;
+}
+
+.todo-car-info-status-circle {
+  width: 13px;
+  height: 13px;
+  background: #5eb149;
+  border-radius: 50%;
+}
+
+.todo-card-info-title-text.status {
+  display: flex;
+  align-items: center;
+}
+
+.todo-car-info-status-circle {
+  margin-right: 24px;
+}
+.todo-card-info-btn-con {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 36px;
+}

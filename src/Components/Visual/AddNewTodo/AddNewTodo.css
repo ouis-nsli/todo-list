@@ -1,0 +1,62 @@
+.add-todo-wraper {
+  position: fixed;
+  width: 100vw;
+  height: 100vh;
+  top: 0;
+  left: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 100;
+}
+
+.add-todo-bg-con {
+  position: fixed;
+  width: 100vw;
+  height: 100vh;
+  top: 0;
+  left: 0;
+  /* background: rgba(255, 255, 255, 0.41); */
+  backdrop-filter: blur(4px);
+}
+.add-todo-form-con {
+  background-color: #f8f9fa;
+  width: 40vw;
+  height: 40vh;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 37px;
+  z-index: 100;
+  padding: 35px 38px;
+  position: relative;
+}
+
+.MuiBox-root.css-xn6ruc {
+  /* background-color: red; */
+  width: 100%;
+}
+.css-xn6ruc > :not(style) {
+  margin: 16px 0 0 0 !important;
+
+  width: 100% !important;
+}
+
+.css-1480iag-MuiInputBase-root-MuiInput-root:before {
+  border-bottom: none !important;
+}
+
+.css-1480iag-MuiInputBase-root-MuiInput-root:after {
+  border-bottom: none !important;
+}
+
+.add-todo-form-con textarea {
+  border: 0;
+}
+
+.css-1c2i806-MuiFormLabel-root-MuiInputLabel-root.Mui-focused {
+  display: none;
+}
+
+.add-todo-form-btn {
+  display: flex;
+  justify-content: flex-end;
+}

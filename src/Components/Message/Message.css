@@ -1,0 +1,6 @@
+.message-wraper {
+  position: fixed;
+  left: 25px;
+  bottom: 50px;
+  z-index: 120;
+}

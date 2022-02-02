@@ -1,0 +1,38 @@
+.css-13r4j3i .MuiTextField-root {
+  width: 100% !important;
+  margin: 11px 0 0 0 !important;
+  height: 100% !important;
+}
+
+.css-1sumxir-MuiFormLabel-root-MuiInputLabel-root {
+  display: none;
+}
+
+.css-1d3z3hw-MuiOutlinedInput-notchedOutline {
+  display: none;
+}
+
+.css-1sumxir-MuiFormLabel-root-MuiInputLabel-root {
+  display: none !important;
+}
+
+.css-dpjnhs-MuiInputBase-root-MuiOutlinedInput-root {
+  padding: 11px 0 0 0 !important;
+  height: 100% !important;
+}
+
+.css-14s5rfu-MuiFormLabel-root-MuiInputLabel-root {
+  left: -12px !important;
+}
+
+.MuiBox-root.css-13r4j3i {
+  height: 60%;
+}
+
+.MuiBox-root.css-13r4j3i div:first-child {
+  height: 100%;
+}
+
+.css-1sqnrkk-MuiInputBase-input-MuiOutlinedInput-input {
+  height: 100% !important;
+}

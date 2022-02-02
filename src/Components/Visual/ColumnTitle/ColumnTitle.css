@@ -1,0 +1,38 @@
+.column-title-con {
+  display: flex;
+  align-items: center;
+  margin-bottom: 24px;
+  position: relative;
+}
+
+.c-t-c-border-left {
+  width: 8px;
+  height: 56px;
+}
+
+.c-t-c-head {
+  margin-left: 16px;
+  /* display: flex;
+  flex-direction: column;
+  justify-content: center; */
+  /* margin-bottom: 24px; */
+}
+
+.c-t-c-head h3 {
+  font-weight: 800;
+  font-size: 24px;
+  line-height: 33px;
+  letter-spacing: 0.08em;
+}
+
+.c-t-c-head p {
+  font-size: 13px;
+  color: #757575;
+  letter-spacing: 0.08em;
+}
+
+.pencile-plus-svg-con {
+  position: absolute;
+  right: 0;
+  cursor: pointer;
+}
